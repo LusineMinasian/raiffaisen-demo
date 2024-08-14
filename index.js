@@ -1,7 +1,7 @@
 spitchat = {
     accountName: "demo",
     domain: "demo.spitch.chat",
-    location: "Raiffeisen"
+    location: "raifbeforevideo"
   };
   function changeScript(){
     sessionStorage.locValue='FAQKanton';
