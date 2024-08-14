@@ -24,8 +24,8 @@ spitchat = {
         document.getElementById('button2').href=sessionStorage.video2;
     }
     else{
-        chatLocationData.location="Raiffeisen";
-        document.querySelector('.imageChat').src='https://demo.spitch.chat/button.php?location=Raiffeisen';
+        chatLocationData.location="raifbeforevideo";
+        document.querySelector('.imageChat').src='https://demo.spitch.chat/button.php?location=raifbeforevideo';
         document.getElementById('button1').href='login.html';
         document.getElementById('button3').href='index.html';
         document.getElementById('button2').href='video.html';
