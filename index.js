@@ -1,4 +1,4 @@
-chatLocationData = {
+spitchat = {
     accountName: "demo",
     domain: "demo.spitch.chat",
     location: "Raiffeisen"
