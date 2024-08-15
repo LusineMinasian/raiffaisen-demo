@@ -37,16 +37,16 @@ spitchat = {
       d.src = "https://demo.spitch.chat/js/button.js";
       document.getElementsByTagName("head")[0].appendChild(d);
   })();
-  function onYouTubeIframeAPIReady() {
-      player = new YT.Player('videoContainer', {
-          height: '400',
-          width: '600',
-          videoId: 'dRaLwY6Gn2U',
-          events: {
-              'onStateChange': changeScript
-          }
-      });
-  }
+      //function onYouTubeIframeAPIReady() {
+          //player = new YT.Player('videoContainer', {
+              //height: '400',
+              //width: '600',
+              //videoId: 'Gl67lXdEF3s',
+              //events: {
+                  //'onStateChange': changeScript
+              //}
+     //});
+  //}
 
   function onPlayerStateChange(event) {
 
